@@ -58,6 +58,13 @@ body {
     display: flex;
     gap: 14px;
 }
+.header_search{
+    color: white;
+    background: transparent;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+}
 
 
 
