@@ -66,6 +66,19 @@ body {
     cursor: pointer;
 }
 
+.header_login,
+.header_singUp{
+    padding: 8px 15px;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+}
 
-
-
+.header_login{
+    background: transparent;
+    border: 1px solid #303641;
+}
+.header_singUp{
+    background: #8b32e8;
+    border: 1px solid #8b32e8;
+}
