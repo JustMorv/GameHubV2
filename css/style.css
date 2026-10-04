@@ -125,3 +125,15 @@ body {
 
 }
 
+
+.popular_games{
+    padding: 40px 0;
+}
+
+.popular_games_header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 25px;
+    
+}
