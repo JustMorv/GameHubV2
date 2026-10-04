@@ -82,3 +82,46 @@ body {
     background: #8b32e8;
     border: 1px solid #8b32e8;
 }
+
+.banner{
+    min-height: 450px;
+    background: linear-gradient(90deg,
+     rgba(13, 28,28, 0.9) 25%, 
+     rgba(17, 18, 34, 0.6) 60%),
+     url("https://static.vecteezy.com/system/resources/thumbnails/022/192/222/small_2x/hooded-masked-actor-young-fantastic-ai-photo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.banner_contant{
+    max-width: 400px;
+    padding-top: 100px;
+}
+
+.banner_title{
+    text-transform: uppercase;
+    color: white;
+    font-size: 42px;
+    line-height: 1.2;
+
+}
+
+.banner_text{
+    margin-top: 20px;
+    font-size: 18px;
+    line-height: 1.8;
+    color: #c1c4ca;
+    margin-bottom: 20px;
+    
+}
+
+.banner_button{
+  padding: 15px 35px;
+  color: white;
+  font-size: 16px;
+  background: #8b32e8;
+  margin-top: 30px;
+  border-radius: 10px;
+
+}
+
