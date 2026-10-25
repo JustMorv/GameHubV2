@@ -135,5 +135,22 @@ body {
     align-items: center;
     justify-content: space-between;
     margin-bottom: 25px;
-    
 }
+
+.popular_games_header h2{
+    font-size: 26px;
+}
+
+.popular_games_header a{
+    text-decoration: none;
+    color: rgb(111, 111, 217);
+}
+.popular_games_list{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+}
+
+
+
+
